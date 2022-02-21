@@ -20,7 +20,13 @@
   
   ## Usage:
   You can use "npm start" to start the express application locally. The application is also deployed at HEROKU.
+  
+  ## HEROKU Deployment
+  https://express-js-note-taker-hw.herokuapp.com/
 
+  ## GITHUB Repo
+  https://github.com/Jaaarsh/Express.js-Note-Taker
+  
   ## Licenses:
   MIT License
   * (https://opensource.org/licenses/MPL-2.0)
